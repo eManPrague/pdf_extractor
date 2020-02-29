@@ -27,7 +27,7 @@ GEM
     parser (2.6.3.0)
       ast (~> 2.4.0)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (13.0.1)
     rubocop (0.71.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
@@ -53,7 +53,7 @@ DEPENDENCIES
   minitest-reporters-json_reporter (~> 1.0, >= 1.0.0)
   nexus (~> 1.4, >= 1.4.0)
   pdf_extractor!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rubocop (~> 0.58, >= 0.58.2)
   simplecov (~> 0.16, >= 0.16.1)
 
